@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://mazhuang.org
+baseurl: "/blog_cn"
+url: "http://ercong21.github.io"
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：闷骚的程序员"
